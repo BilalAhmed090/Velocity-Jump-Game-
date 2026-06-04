@@ -18,10 +18,6 @@ A 2-player turn-based racing strategy game built with Python and Pygame. Players
 
 📦 Installation:
 
--> Clone the repository:
-git clone https://github.com/yourusername/jump-game.git
-cd jump-game
-
 -> Install Pygame:
 pip install pygame
 
